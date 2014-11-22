@@ -1,5 +1,5 @@
 Beatmania IIDX Controller
-
+============================
 !!!!!!!!!!!!!!! NOT AVAILABLE YET !!!!!!!!!!!!!!
 ===============================================
 
@@ -16,9 +16,10 @@ https://github.com/thomasfredericks/Bounce-Arduino-Wiring
 ========================================================
 Some features will be updated as soon as I build my own controller. 
 examples : AC feeling turntable, 3x4 Keypad
+
 =================================================
 Connection 
-
+===================
 0,1 Rotary Encoder A/B (or two photointerrupters and plastic gear)
 
 2~10 Start, Select, Button 1~7
