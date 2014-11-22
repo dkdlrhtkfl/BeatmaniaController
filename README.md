@@ -1,4 +1,4 @@
-Leonardo Based Beatmania IIDX Controller
+Beatmania IIDX Controller
 ============================
 !! NOT AVAILABLE YET !!
 ===============================================
