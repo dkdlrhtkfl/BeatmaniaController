@@ -14,7 +14,8 @@ http://www.imaginaryindustries.com/blog/?p=80
 https://github.com/thomasfredericks/Bounce-Arduino-Wiring
 
 ========================================================
-Some features will be updated as soon as I build my own controller. 
+Some features will be updated as soon as I build my own controller.
+
 examples : AC feeling turntable, 3x4 Keypad
 
 =================================================
