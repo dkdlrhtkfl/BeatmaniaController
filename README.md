@@ -13,7 +13,7 @@ http://www.imaginaryindustries.com/blog/?p=80
 
 https://github.com/thomasfredericks/Bounce-Arduino-Wiring
 
-Works perfectly on Arduino IDE 1.0.5-r2.
+You should install Arduino IDE 1.0.5-r2 or older one. Newer versions occur errors.
 
 ========================================================
 
