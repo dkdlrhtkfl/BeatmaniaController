@@ -1,6 +1,6 @@
 Leonardo Based Beatmania IIDX Controller
 ============================
-!!!!!!!!!!!!!!! NOT AVAILABLE YET !!!!!!!!!!!!!!
+!! NOT AVAILABLE YET !!
 ===============================================
 
 With Arduino Leonardo, you can make Beatmania IIDX Controller which works as joystick.
