@@ -1,4 +1,4 @@
-Arduino Leonardo Based Beatmania IIDX Controller
+Leonardo Based Beatmania IIDX Controller
 ============================
 !!!!!!!!!!!!!!! NOT AVAILABLE YET !!!!!!!!!!!!!!
 ===============================================
