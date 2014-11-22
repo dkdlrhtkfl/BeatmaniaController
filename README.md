@@ -1,4 +1,4 @@
-Beatmania IIDX Controller
+Arduino Leonardo Based Beatmania IIDX Controller
 ============================
 !!!!!!!!!!!!!!! NOT AVAILABLE YET !!!!!!!!!!!!!!
 ===============================================
@@ -14,6 +14,7 @@ http://www.imaginaryindustries.com/blog/?p=80
 https://github.com/thomasfredericks/Bounce-Arduino-Wiring
 
 ========================================================
+
 Some features will be updated as soon as I build my own controller.
 
 examples : AC feeling turntable, 3x4 Keypad
